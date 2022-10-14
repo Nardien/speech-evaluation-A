@@ -44,9 +44,9 @@ function saveSpeaker(speaker, dataset) {
 
 
 const speakerArray_VCTK = [
-    "p226", "p229", "p234", "p244" ,"p245", 
-    "p248", "p256", "p268", "p274", "p279", 
-    "p283", "p308", "p314", "p323", "p335",
+    "p226", "p229",
+    "p256", "p268", "p274", "p279", 
+    "p283", "p308", "p314", "p323",
 ]
 
 for (var i = 0; i < speakerArray_VCTK.length; i++) {
